@@ -35,6 +35,7 @@ If you are a copyright owner and would like a link removed, please open an issue
 | [Pattern Monster](https://pattern.monster/) | SVG pattern generator |
 | [Toptal Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) | Free seamless patterns |
 | [SVGBackgrounds](https://www.svgbackgrounds.com/) | Customizable SVG backgrounds |
+| [Neatbo SVG Pattern Generator](https://neatbo.com/color/svg-pattern-generator) | Generate dot, grid, and diagonal SVG background tiles |
 
 [⬆ back to index](#-index)
 
